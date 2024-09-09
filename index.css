@@ -27,7 +27,7 @@ background: linear-gradient(90deg, rgba(53,127,232,1) 0%, rgba(1,4,47,1) 94%);}
 }
 .banner {
     height:300px;
-    background-image: url('mem.jpg');
+    background-image: url("mem.jpg");
     background-size: cover;
     position: relative;
     display: flex;
